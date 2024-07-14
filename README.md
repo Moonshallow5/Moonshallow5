@@ -18,7 +18,7 @@ I'm a recent Electronics and Electrical Engineering and Computer Science Graduat
 
 🔧Languages and Tools I use:
 <br><br><br>
-<img src="https://user-images.githubusercontent.com/118007944/210170357-956a94a6-f211-4123-be52-76218a34f0d8.png" title="Python" alt="Python" width="40" height="40" />&nbsp;
+<img  align="left" src="https://user-images.githubusercontent.com/118007944/210170357-956a94a6-f211-4123-be52-76218a34f0d8.png" title="Python" alt="Python" width="40" height="40" />&nbsp;
 <img src="https://user-images.githubusercontent.com/118007944/210169621-d38589c3-6bbe-4764-92f3-8fe7bf5942d5.png" title="Go"  alt="Go" width="30" height="40"/>
 <img align="left" alt="Java" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
