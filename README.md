@@ -17,6 +17,7 @@ I'm a recent Electronics and Electrical Engineering and Computer Science Graduat
 
 
 🔧Languages and Tools I use:
+<br>
 <img src="https://user-images.githubusercontent.com/118007944/210170357-956a94a6-f211-4123-be52-76218a34f0d8.png" title="Python" alt="Python" width="40" height="40" />&nbsp;
 <img src="https://user-images.githubusercontent.com/118007944/210169621-d38589c3-6bbe-4764-92f3-8fe7bf5942d5.png" title="Go"  alt="Go" width="30" height="40"/>
 
