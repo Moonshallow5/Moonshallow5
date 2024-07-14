@@ -9,7 +9,7 @@ Hey! I'm Sandeep.
 
 ##  🧑‍💻 About_Me
 
-
+I'm a recent Electronics and Electrical Engineering and Computer Science Graduate at the University of Edinburgh, and I have a huge passion for software engineering, as well as cyber security.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 <!---
