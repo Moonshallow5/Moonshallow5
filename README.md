@@ -26,19 +26,26 @@ I'm a recent Electronics and Electrical Engineering and Computer Science Graduat
 <img align="left" alt="React" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
 <img align="left" alt="MySQL" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
 <img align="left" alt="Linux" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
+<img align="left" alt="Git" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+<img align="left" alt="C" width="30px" height="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  />
+<img align="left" alt="C++" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 
 
+## 💡 𝖬𝗒 𝖲𝗍𝖺𝗍𝗌
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Moonshallow5&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats) 
+<br><br>
 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonshallow5&layout=compact&theme=buefy&hide_border=true" /></a>
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moonshallow5&show_icons=true&locale=en" alt="Moonshallow5" /></p>
 
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moonshallow5&" alt="Moonshallow5" /></p>
+
+--->
 <!---
 Moonshallow5/Moonshallow5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
-    
-    <p>I'm a full stack web developer, trying to improve my thinking and programming skills one project at a time. </p>
