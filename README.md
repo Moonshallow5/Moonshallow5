@@ -1,5 +1,5 @@
 
-<a href="https://github.com/Moonshallow5/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Python.;I+love+Learning.;I+love+Java.;I+love+Programming.&center=true&width=500&height=50"></a>
+<!--<a href="https://github.com/Moonshallow5/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Python.;I+love+Learning.;I+love+Java.;I+love+Programming.&center=true&width=500&height=50"></a>-->
 
 <h1 align="center">
 
