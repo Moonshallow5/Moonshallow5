@@ -11,7 +11,9 @@ Hey! I'm Sandeep.
 
 I'm a recent Electronics and Electrical Engineering and Computer Science Graduate at the University of Edinburgh, and I have a huge passion for software engineering, as well as cyber security.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
+-🔭: Exploring
+- Build things stuck on my head
+- 📫: Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 <!---
 Moonshallow5/Moonshallow5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
