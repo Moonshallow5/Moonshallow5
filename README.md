@@ -7,7 +7,7 @@ Hey! I'm Sandeep.
     
 </h1>
 
-## : 🧑‍💻: About_Me
+##  🧑‍💻 About_Me
 
 
 
