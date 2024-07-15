@@ -13,7 +13,7 @@ I'm a recent Electronics and Electrical Engineering and Computer Science Graduat
 
 🔭: Exploring
 - Build things stuck on my head
-- 📫: Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
+- 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
 
 🔧Languages and Tools I use:
