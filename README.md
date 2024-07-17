@@ -9,9 +9,13 @@ Hey! I'm Sandeep.
 
 ##  🧑‍💻 About_Me
 
-I'm a recent Electronics and Electrical Engineering and Computer Science Graduate at the University of Edinburgh, and I have a huge passion for software engineering, as well as cyber security.
+I'm a recent Electronics and Electrical Engineering and Computer Science Graduate at the University of Edinburgh, and I have a huge passion for software engineering, as well as cyber security. I'm trying to do as many full stack projects as possible.
 
-🔭: Exploring
+All the repositories you see in this profile are built by me from the ground up. 
+
+Thank you for visiting my profile :)
+
+🔭 Exploring
 - Build things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
