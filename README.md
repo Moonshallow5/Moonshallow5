@@ -16,7 +16,7 @@ All the repositories you see in this profile are built by me from the ground up.
 Thank you for visiting my profile :)
 
 🔭 Exploring
-- Build things stuck on my head
+- Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
 
