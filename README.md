@@ -19,6 +19,8 @@ Thank you for visiting my profile :)
 - Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
+  Currently submitted 90 leetcode questions and 80 neetcode questions
+
 
 🔧Languages and Tools I use:
 <br><br><br>
