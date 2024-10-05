@@ -22,6 +22,10 @@ Thank you for visiting my profile :)
 
 💻 Currently submitted 90 leetcode questions and 80 neetcode questions
 
+Also trying to get some AWS skills :)
+
+
+
 
 
 🔧Languages and Tools I use:
