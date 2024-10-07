@@ -20,9 +20,18 @@ Thank you for visiting my profile :)
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
 
-💻 Currently submitted 90 leetcode questions and 80 neetcode questions
+<br/><br/>
 
-Also trying to get some AWS skills :)
+
+
+🔦Skills achieved:
+
+- <a href="https://explore.skillbuilder.aws/learn/course/134/play;state=%5Bobject%20Object%5D;autoplay=0">AWS Cloud Practicioner Essentials</a>
+
+- Submitted 100 Leetcode questions and 90 neetcode questions
+<br/><br/>
+
+
 
 
 
