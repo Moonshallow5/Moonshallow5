@@ -19,8 +19,7 @@ Thank you for visiting my profile :)
 - Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
-
-<br/><br/>
+<br/>
 
 
 
