@@ -30,6 +30,7 @@ Thank you for visiting my profile :)
 - Submitted 100 Leetcode questions and 90 neetcode questions
 
 - <a href="https://www.coursera.org/account/accomplishments/verify/OWO8ZJYO8G81"> Supervised Machine Learning </a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/GSBGS5KX47NW"> Advanced Learning Algorithms</a>
 <br/><br/>
 
 
