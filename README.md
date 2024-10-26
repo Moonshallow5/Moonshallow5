@@ -28,7 +28,7 @@ Thank you for visiting my profile :)
 - <a href="https://explore.skillbuilder.aws/learn/course/134/play;state=%5Bobject%20Object%5D;autoplay=0">AWS Cloud Practicioner Essentials</a>
 
 - Submitted 100 Leetcode questions and 90 neetcode questions
-
+- <a href="https://coursera.org/verify/specialization/I2B4UDXUZXPU"> Machine Learning Specialization </a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/OWO8ZJYO8G81"> Supervised Machine Learning </a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/GSBGS5KX47NW"> Advanced Learning Algorithms</a>
 <br/><br/>
