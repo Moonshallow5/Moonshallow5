@@ -31,7 +31,7 @@ Thank you for visiting my profile :)
 - <a href="https://coursera.org/verify/specialization/I2B4UDXUZXPU"> Machine Learning Specialization </a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/OWO8ZJYO8G81"> Supervised Machine Learning </a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/GSBGS5KX47NW"> Advanced Learning Algorithms</a>
-- Almost completed the <a href="https://github.com/Moonshallow5/Odin_Project">Odin Javascript Project</a>
+- Recently completed the <a href="https://github.com/Moonshallow5/Odin_Project">Odin Javascript Project</a>
 
 <br/><br/>
 
