@@ -9,7 +9,7 @@ Hey! I'm Sandeep.
 
 ##  🧑‍💻 About_Me
 
-I'm a recent Electronics and Computer Science Graduate at the University of Edinburgh, and I have a huge passion for Backend and Machine Learning. I'm trying to do as many full stack and Machine learning projects as possible :)
+I'm a recent Electronics and Computer Science Graduate from University of Edinburgh, and I have a huge passion for Backend and Machine Learning. I'm trying to do as many full stack and Machine learning projects as possible :)
 
 All the repositories you see in this profile are built by me from the ground up. 
 
@@ -27,12 +27,9 @@ Thank you for visiting my profile :)
 
 - <a href="https://explore.skillbuilder.aws/learn/course/134/play;state=%5Bobject%20Object%5D;autoplay=0">AWS Cloud Practicioner Essentials</a>
 
-- Submitted 160 Leetcode questions and 110 neetcode questions
-- <a href="https://coursera.org/verify/specialization/I2B4UDXUZXPU"> Machine Learning Specialization </a>
-- <a href="https://www.coursera.org/account/accomplishments/verify/OWO8ZJYO8G81"> Supervised Machine Learning </a>
-- <a href="https://www.coursera.org/account/accomplishments/verify/GSBGS5KX47NW"> Advanced Learning Algorithms</a>
+- <a href="https://leetcode.com/u/moonshallow/"> Leetcode Profile </a>
 - Recently completed the <a href="https://github.com/Moonshallow5/Odin_Project">Odin Javascript Project</a>
-- In the process of completing the Deep Learning Specialization
+- Completed  <a href="https://coursera.org/verify/specialization/I2B4UDXUZXPU"> Machine Learning Specialization </a> and <a href="https://www.coursera.org/account/accomplishments/specialization/WO8RJLMC1ZDK"> Deep Learning Specialisation</a>
 
 <br/><br/>
 
