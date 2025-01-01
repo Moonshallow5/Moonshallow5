@@ -25,7 +25,6 @@ Thank you for visiting my profile :)
 
 🔦Skills achieved:
 
-- <a href="https://explore.skillbuilder.aws/learn/course/134/play;state=%5Bobject%20Object%5D;autoplay=0">AWS Cloud Practicioner Essentials</a>
 
 - <a href="https://leetcode.com/u/moonshallow/"> Leetcode Profile </a>
 - Recently completed the <a href="https://github.com/Moonshallow5/Odin_Project">Odin Javascript Project</a>
