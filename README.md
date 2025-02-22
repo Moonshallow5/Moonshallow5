@@ -57,9 +57,9 @@ Thank you for visiting my profile :)
 
 ## 💡 𝖬𝗒 𝖲𝗍𝖺𝗍𝗌
  [![GitHub Streak](https://streak-stats.demolab.com?user=Moonshallow5&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats) 
-<br><br>
+<br>
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonshallow5&layout=compact&theme=buefy&hide_border=true" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonshallow5&layout=compact&theme=dracula&hide_border=true" /></a>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moonshallow5&show_icons=true&locale=en" alt="Moonshallow5" /></p>
 
