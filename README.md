@@ -9,7 +9,7 @@ Hey! I'm Sandeep.
 
 ##  🧑‍💻 About_Me
 
-I'm a recent Electronics and Computer Science Graduate from University of Edinburgh, and I have a huge passion for Backend and Machine Learning. I'm trying to do as many full stack and Machine learning projects as possible :)
+I'm a recent Electronics and Computer Science Graduate from University of Edinburgh, and I have a huge passion for Full stack and Machine Learning. I'm trying to do as many full stack and Machine learning projects as possible :)
 
 All the repositories you see in this profile are built by me from the ground up. 
 
