@@ -25,7 +25,7 @@ Thank you for visiting my profile :)
 
 🔦Skills achieved:
 
-
+- <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ff7a45e5f19f4a27b94834b5a54c054c"> AWS Cloud Practitoner Fundamentals</a>
 - <a href="https://leetcode.com/u/moonshallow/"> Leetcode Profile </a>
 - Recently completed the <a href="https://github.com/Moonshallow5/Odin_Project">Odin Javascript Project</a>
 - Completed  <a href="https://coursera.org/verify/specialization/I2B4UDXUZXPU"> Machine Learning Specialization</a>, <a href="https://www.coursera.org/account/accomplishments/specialization/WO8RJLMC1ZDK"> Deep Learning Specialisation</a> and <a href="https://www.coursera.org/account/accomplishments/specialization/LBL14C1Z3SD1"> NLP Specialization </a>
