@@ -41,6 +41,8 @@ Thank you for visiting my profile :)
 
 🔧Languages and Tools I use:
 <br><br><br>
+<img align="left" alt="Vue" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;
+<img align="left" alt="Vuetify" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />&nbsp;
 <img align="left" alt="Python" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp;
 <img align="left" alt="Java" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;
 <img align="left" alt="HTML" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;
@@ -59,7 +61,9 @@ Thank you for visiting my profile :)
  [![GitHub Streak](https://streak-stats.demolab.com?user=Moonshallow5&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats) 
 <br>
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonshallow5&layout=compact&theme=dracula&hide_border=true" /></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonshallow5&layout=compact&theme=dracula&hide_border=true" />
+
+
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moonshallow5&show_icons=true&locale=en" alt="Moonshallow5" /></p>
 
