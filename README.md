@@ -40,21 +40,35 @@ Thank you for visiting my profile :)
 
 
 🔧Languages and Tools I use:
-<br><br><br>
+<br><br>
+- FrontEnd
+  <br>
+
+  
 <img align="left" alt="Vue" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;
-<img align="left" alt="Vuetify" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />&nbsp;
-<img align="left" alt="Python" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp;
-<img align="left" alt="Java" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;
+<img align="left" alt="Vuetify" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
 <img align="left" alt="HTML" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;
 <img align="left" alt="CSS" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
 <img align="left" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
-<img align="left" alt="React" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-<img align="left" alt="MySQL" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
-<img align="left" alt="Linux" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
-<img align="left" alt="Git" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-<img align="left" alt="C" width="30px" height="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  />
-<img align="left" alt="C++" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="React" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<br><br>
 
+- BackEnd 
+    <br>
+
+<img align="left" alt="Express.js" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="Node.js" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<br><br>
+
+- Database
+    <br>
+    <img  align="left" alt="PostgresSQL" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align="left" alt="MySQL" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+
+<br>
 
 
 ## 💡 𝖬𝗒 𝖲𝗍𝖺𝗍𝗌
