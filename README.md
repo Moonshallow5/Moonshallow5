@@ -3,7 +3,7 @@
 
 <h1 align="center">
 
-Hey! I'm Sandeep.
+Hey! I'm <a href="https://sandeep-personal-website.vercel.app/">Sandeep.</a> <img src="./wave.gif" width="40"/>
     
 </h1>
 
@@ -19,8 +19,6 @@ Thank you for visiting my profile :)
 - Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
-<br/>
-
 
 
 🔦Skills achieved:
@@ -31,42 +29,27 @@ Thank you for visiting my profile :)
 - Completed  <a href="https://coursera.org/verify/specialization/I2B4UDXUZXPU"> Machine Learning Specialization</a>, <a href="https://www.coursera.org/account/accomplishments/specialization/WO8RJLMC1ZDK"> Deep Learning Specialisation</a> and <a href="https://www.coursera.org/account/accomplishments/specialization/LBL14C1Z3SD1"> NLP Specialization </a>
 - Now focusing on System Design Prep
 
-<br/><br/>
-
-
-
-
-
-
+<br/>
 
 🔧Languages and Tools I use:
 <br><br>
-- FrontEnd
-  <br>
-
+<ul>
+	<li>Frontend:<br>
+<img height="40px" src="https://skillicons.dev/icons?i=vue,vuetify,html,css,tailwind,js,ts,react,sass" />
+    </li>
   
-<img align="left" alt="Vue" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;
-<img align="left" alt="Vuetify" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
-<img align="left" alt="HTML" width="30px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;
-<img align="left" alt="CSS" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
-<img align="left" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
-<img align="left" alt="React" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<br><br>
+<li>Backend:<br>
+ <img height="40px" src="https://skillicons.dev/icons?i=java,python,nodejs,express,spring,postgres,prisma,redis,mongodb" />
 
-- BackEnd 
-    <br>
+</li>
+<li>Developer Tools:<br>
+	
+<img height="40px"
+    src="https://skillicons.dev/icons?i=git,npm,vite,webpack,jest,github,gitlab,gradle,aws,docker" />
+            
 
-<img align="left" alt="Express.js" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img align="left" alt="Node.js" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<br><br>
-
-- Database
-    <br>
-    <img  align="left" alt="PostgresSQL" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img align="left" alt="MySQL" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
+</li>
+</ul>
 
 <br>
 
