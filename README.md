@@ -32,7 +32,7 @@ Thank you for visiting my profile :)
 <br/>
 
 🔧Languages and Tools I use:
-<br><br>
+<br>
 <ul>
 	<li>Frontend:<br>
 <img height="40px" src="https://skillicons.dev/icons?i=vue,vuetify,html,css,tailwind,js,ts,react,sass" />
@@ -43,7 +43,6 @@ Thank you for visiting my profile :)
 
 </li>
 <li>Developer Tools:<br>
-	
 <img height="40px"
     src="https://skillicons.dev/icons?i=git,npm,vite,webpack,jest,github,gitlab,gradle,aws,docker" />
             
