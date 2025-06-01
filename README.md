@@ -15,11 +15,13 @@ All the repositories you see in this profile are built by me from the ground up.
 
 Thank you for visiting my profile :)
 
+
+
 🔭 Exploring
 - Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
-
+Now spending most of time training for the AWS Solution Architect course with Andrew Catrill, so won't see much commit nowadays. Also planning to get the cert end of June 2025
 
 🔦Skills achieved:
 
