@@ -21,8 +21,7 @@ Thank you for visiting my profile :)
 - Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
-Now spending most of time training for the AWS Solution Architect course with Andrew Catrill, so won't see much commit nowadays. Also planning to get the cert end of June 2025
-
+Planning to be a (3x AWS Certified person. (Currently still hold 2 certificates from AWS)
 🔦Skills achieved:
 
 - <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9fafcf035edb4b8095a8adbea01375d9"> AWS Solutions Architect Associate</a>
