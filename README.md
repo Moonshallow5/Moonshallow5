@@ -21,7 +21,9 @@ Thank you for visiting my profile :)
 - Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
-Planning to be a (3x AWS Certified person. (Currently still hold 2 certificates from AWS)
+Planning to be a 3x AWS Certified person. (Currently still hold 2 certificates from AWS)
+
+
 🔦Skills achieved:
 
 - <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9fafcf035edb4b8095a8adbea01375d9"> AWS Solutions Architect Associate</a>
