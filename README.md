@@ -21,12 +21,13 @@ Thank you for visiting my profile :)
 - Building things stuck on my head
 - 📫 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sandeep-singh-557510200/)
 
-Planning to be a 3x AWS Certified person. (Currently still hold 2 certificates from AWS)
+Currently have 3 AWS Ceritifcations
 
 
 🔦Skills achieved:
 
 - <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9fafcf035edb4b8095a8adbea01375d9"> AWS Solutions Architect Associate</a>
+- <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/bc8a7cf3b0084e248936f0f8f130b22e"> AWS Developer Associate</a>
 - <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ff7a45e5f19f4a27b94834b5a54c054c"> AWS Cloud Practitoner Fundamentals</a>
 - <a href="https://leetcode.com/u/moonshallow/"> Leetcode Profile </a>
 - Recently completed the <a href="https://github.com/Moonshallow5/Odin_Project">Odin Javascript Project</a>
