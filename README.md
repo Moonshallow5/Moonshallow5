@@ -9,7 +9,7 @@ Hey! I'm <a href="https://sandeep-personal-website.vercel.app/">Sandeep.</a> <im
 
 ##  🧑‍💻 About_Me
 
-I'm a recent Electronics and Computer Science Graduate from University of Edinburgh, and I have a huge passion for Full stack and Machine Learning. I'm trying to do as many full stack and Machine learning projects as possible :)
+I've about 2 years of Work Experience, currently studying my Masters at Singapore Management University, and I have a huge passion for Full stack and Machine Learning. I'm trying to do as many full stack and Machine learning projects as possible :)
 
 All the repositories you see in this profile are built by me from the ground up. 
 
